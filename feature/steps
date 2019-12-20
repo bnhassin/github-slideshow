@@ -1,1 +1,5 @@
-[bnhassin/github-slideshow]
+[bnhassin/github-slideshow]	
+git fetch origin
+git checkout -b feature origin/feature
+git merge master
+
