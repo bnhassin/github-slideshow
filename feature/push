@@ -1,0 +1,4 @@
+[bnhassin/github-slideshow]	
+git checkout master
+git merge --no-ff feature
+git push origin master
